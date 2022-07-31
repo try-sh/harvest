@@ -1,0 +1,51 @@
+body {
+	background-color: #ffd60a;
+	padding: 50px 50px 50px 50px;
+	font-family: 'Indie Flower', cursive;
+	/*justify-content: center !important;*/
+	/*display: flex;*/
+}
+
+.title {
+	color: #000000;
+	text-align: center;
+}
+
+.image {
+	border-radius: 10px;
+	margin-left: 266px;
+	width: 58%;
+}
+
+.content {
+	/*margin-left: 25px;*/
+}
+
+.paragraf {
+	background-color: white;
+}
+
+.table {
+	width: 100%;
+	border-spacing: 0px !important;
+	border-collapse: collapse !important;
+}
+
+td, th {
+	padding: 10px;
+	border: solid 1px;
+	text-align: center;
+
+}
+
+.list {
+	background-color: #003566;
+	color: #fff;
+}
+
+table thead th {
+	background-color: black;
+	color: #fff;
+	border-color: #6ea1cc;
+	text-transform: uppercase;
+}
